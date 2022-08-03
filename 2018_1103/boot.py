@@ -7,6 +7,7 @@ gc.collect()
 from machine import Pin
 import time
 import network
+# import network
 
     
 print('-----Boot.py is done by Dancer')
